@@ -1,2 +1,3 @@
-# .github.Stem
-This is a GitHub dedicated to the Marconi-Stem Summer course.
+# Marconi-Stem/.github.Stem
+This GitHub site is dedicated to the Marconi-Stem Summer course, July, 2025.
+
