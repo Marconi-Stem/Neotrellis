@@ -1,7 +1,7 @@
 # Making the Neotrellis M4 Express
 
 | The Neotrellis 'Music Box' |
-|-|
+|:-:|
 |<img src="/images/adafruit_products_3938_demo.gif" width="50%" />|
 
 
