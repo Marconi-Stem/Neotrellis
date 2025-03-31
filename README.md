@@ -3,6 +3,7 @@
 | The Neotrellis 'Music Box' |
 |-|
 | ![Neotrellis](/images/adafruit_products_3938_demo.gif) |
+|<img src="/images/adafruit_products_3938_demo.gif" width="100%" />|
 
 
 This site is for the Marconi Summer Stem course making the Neotrellis M4 Express.
