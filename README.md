@@ -1,9 +1,10 @@
 # Making the Neotrellis M4 Express
-
+**Making the Netorellis**
 | The Neotrellis 'Music Box' |
 |:-:|
 |<img src="/images/adafruit_products_3938_demo.gif" width="50%" />|
 
+This site holds ONLY the directions for assembling and "Initializing" the Neotrellis Music box. It does not contain Python help section(s). 
 
 This site is for the Marconi Summer Stem course making the Neotrellis M4 Express.
 
