@@ -16,12 +16,17 @@
    - pictures
    - manuals for board and links
    - [Abhijay's vid playlist](https://www.youtube.com/playlist?list=PLVJIaQIN1-U7R3uJ16FP6xKWFEc6uZRee)
+   - See also: [Neo-Memory Game](https://learn.adafruit.com/neotrellis-m4-memory-game)
+   - See: [Neo-Flappy](https://learn.adafruit.com/circuitpython-neotrellism4-flappybird)
+   - [Neo-Xmas](https://learn.adafruit.com/xmas-sound-board)
+   - [**Neo-Sound**](https://learn.adafruit.com/adafruit-neotrellis-m4)
+   - [Beat-Synth](https://learn.adafruit.com/trellis-m4-beat-sequencer)
 
 ## 2. Information to be used
 
 
 ## 3. Parts list and extras for the course - Directions
-- Need USB cables and speaker cables??
+- You need USB cables and speaker cables??
 
 
 ## 4. Handouts ???
