@@ -16,11 +16,20 @@
    - pictures
    - manuals for board and links
    - [Abhijay's vid playlist](https://www.youtube.com/playlist?list=PLVJIaQIN1-U7R3uJ16FP6xKWFEc6uZRee)
-   - See also: [Neo-Memory Game](https://learn.adafruit.com/neotrellis-m4-memory-game)
-   - See: [Neo-Flappy](https://learn.adafruit.com/circuitpython-neotrellism4-flappybird)
-   - [Neo-Xmas](https://learn.adafruit.com/xmas-sound-board)
-   - [**Neo-Sound**](https://learn.adafruit.com/adafruit-neotrellis-m4)
-   - [Beat-Synth](https://learn.adafruit.com/trellis-m4-beat-sequencer)
+
+## 2. Possible Side Projects
+- INTENDED PROJECT: [**Neo-Sound**](https://learn.adafruit.com/adafruit-neotrellis-m4)
+
+- [Neo-Memory Game](https://learn.adafruit.com/neotrellis-m4-memory-game)
+- [Neo-Flappy](https://learn.adafruit.com/circuitpython-neotrellism4-flappybird)
+- [Neo-Xmas](https://learn.adafruit.com/xmas-sound-board)
+- [Dice Roller](https://learn.adafruit.com/neotrellis-dice)
+- [Light painter](https://learn.adafruit.com/neotrellis-light-painting)
+- [Audio-visualizer-and-filter](https://learn.adafruit.com/trellis-m4-audio-visualizer-and-filter)
+- [Beat-Synth](https://learn.adafruit.com/trellis-m4-beat-sequencer)
+- [Live-launcher](https://learn.adafruit.com/neotrellis-live-launcher)
+
+
 
 ## 2. Information to be used
 
