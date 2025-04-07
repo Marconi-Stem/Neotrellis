@@ -47,7 +47,7 @@
 
 ## 6. Action List for Kids
     - Install Python on Windows
-    - Install Pycharm
+    - Install Thonny/Pycharm
     - Install Circup
     - Plub in Device and Install `.UF2`
 
