@@ -16,6 +16,7 @@ Build Steps - Action List for Kids:
 1. Download and Install Circup 
 1. Download and Install Python program for `music box`
 1. Download and Install [**Neo-Sound**](https://learn.adafruit.com/adafruit-neotrellis-m4)
+2. [circuitpython](https://learn.adafruit.com/welcome-to-circuitpython)
 
 
 ## To-do list
