@@ -1,32 +1,20 @@
-Python & CircuitPython
+# Software: Python & CircuitPython
 
-Python & CircuitPython is known for its readability
+Python & CircuitPython are close relatives.
 
-TUTORIALS:
+(Father :construction_worker: )-Python is made to be spoken. It's plain and does not use crazy symbols just simpler text. 
 
-Good: https://www.geeksforgeeks.org/python-programming-language-tutorial/
-EXCELLENT: Prof G. - https://www.youtube.com/playlist?list=PLBJJ76R_ry5T3X72OIDkMOXQIdmcvSkue
-Beginners: https://wiki.python.org/moin/BeginnersGuide
-https://www.learnpython.org/
-https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/
-https://medium.com/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6
-BEST https://www.w3schools.com/python/
-https://www.freecodecamp.org/news/best-python-tutorial/
-https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg
-https://www.youtube.com/watch?v=St48epdRDZw
-https://pythonspot.com/beginner/
-https://www.pythonforbeginners.com/python-tutorial
-https://www.youtube.com/watch?v=t8pPdKYpowI
+(Baby :baby: )-CircuitPython is used with NeoTrellis.
+
+Python is popular and can be used for tons of jobs like creating web applications, 'N-more. ;))
+
+### Step #1: Installing is the first step. It works on all computers. It is even on many NEW computers.
+- Design page/directions for Windows
+
+### Step #2: Install Thonny
 
 
-
-
-- Python is popular.
-- Python can be used for tons of projects like creating web applications.
-- It's made to be spoken and plain to use and learn. It does not use crazy symbols but just simpler text.
--Installing is the first step. It works on all computers. It is even on many NEW computers.
-
--IDEs 
+ 
 -There is a list of tutorials suitable for experienced programmers on the BeginnersGuide/Tutorials page.
 -Online documentation is your first port of call for definitive information. There are simple, short tutorials and more complicated ones. Keep looking for whatever you like the best.
 -Python is Open Source Software which means it's free for anyone to use, modify or improve upon.
@@ -73,4 +61,21 @@ The LED will flash. Then, the TRELM4BOOT drive will disappear and a new disk dri
 That's it, you're done! :)
 
 You can then unzip this download and drag the files onto CIRCUITPY drive to get back to the default drum machine
+
+
+## More TUTORIALS:
+
+[Good](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
+[EXCELLENT: Prof G.](https://www.youtube.com/playlist?list=PLBJJ76R_ry5T3X72OIDkMOXQIdmcvSkue)
+[Beginners](https://wiki.python.org/moin/BeginnersGuide)
+[](https://www.learnpython.org/)
+[FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
+[Free courses](https://medium.com/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)
+[Matt Loves W3Schools](https://www.w3schools.com/python/)
+[Good ideas](https://www.freecodecamp.org/news/best-python-tutorial/)
+[Free Youtube videos](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+[](https://www.youtube.com/watch?v=St48epdRDZw)
+[](https://pythonspot.com/beginner/)
+[](https://www.pythonforbeginners.com/python-tutorial)
+[](https://www.youtube.com/watch?v=t8pPdKYpowI)
 

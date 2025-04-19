@@ -20,7 +20,7 @@ Build Steps - Action List for Kids:
 
 
 ## To-do list
-   - Need laptop
+   - Need laptops
    - Buy kits? How many?
    - pictures / Use scribd for directions?
    - manuals for board and links
