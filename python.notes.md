@@ -2,11 +2,13 @@
 
 Python & CircuitPython are close relatives.
 
-(Father :construction_worker: )-Python is made to be spoken. It's plain and does not use crazy symbols just simpler text. 
+(Father :construction_worker:) - Python is made to be spoken. It's plain and does not use crazy symbols just simpler text. 
 
-(Baby :baby: )-CircuitPython is used with NeoTrellis.
+- Python is popular and can be used for tons of jobs like web pages and apps. :trollface:
 
-Python is popular and can be used for tons of jobs like creating web applications, 'N-more. ;))
+(Baby :baby:) - CircuitPython is used with NeoTrellis.
+
+
 
 ### Step #1: Installing is the first step. It works on all computers. It is even on many NEW computers.
 - Design page/directions for Windows
@@ -58,24 +60,30 @@ adafruit_products_TrellisM4_CIRCUITPY.png
 
 The LED will flash. Then, the TRELM4BOOT drive will disappear and a new disk drive called CIRCUITPY will appear.
 
-That's it, you're done! :)
+That's it, you're on :fire:! 
 
 You can then unzip this download and drag the files onto CIRCUITPY drive to get back to the default drum machine
 
 
 ## More TUTORIALS:
 
-[Good](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
-[EXCELLENT: Prof G.](https://www.youtube.com/playlist?list=PLBJJ76R_ry5T3X72OIDkMOXQIdmcvSkue)
+:+1:
+[Abhijay's video playlist](https://www.youtube.com/playlist?list=PLVJIaQIN1-U7R3uJ16FP6xKWFEc6uZRee)
+[Mr C. Loves W3Schools](https://www.w3schools.com/python/)
+[Geeks 4 geeks](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
+
+
+:muscle:
+[Prof G. is EXCELLENT but Hi-level](https://www.youtube.com/playlist?list=PLBJJ76R_ry5T3X72OIDkMOXQIdmcvSkue)
+
+?
 [Beginners](https://wiki.python.org/moin/BeginnersGuide)
-[](https://www.learnpython.org/)
+[learnpython](https://www.learnpython.org/)
 [FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
 [Free courses](https://medium.com/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)
-[Matt Loves W3Schools](https://www.w3schools.com/python/)
 [Good ideas](https://www.freecodecamp.org/news/best-python-tutorial/)
 [Free Youtube videos](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 [](https://www.youtube.com/watch?v=St48epdRDZw)
 [](https://pythonspot.com/beginner/)
 [](https://www.pythonforbeginners.com/python-tutorial)
 [](https://www.youtube.com/watch?v=t8pPdKYpowI)
-
