@@ -2,16 +2,42 @@
 
 *Python & CircuitPython are relatives.*
 
-(*Father* :construction_worker:) - **Python** is simple text & made to be spoken. It does not use crazy symbols. 
+(*Father* :construction_worker:) - **Python** is simple text & made to be spoken. It doesn't use crazy symbols either. 
 
-- Python is popular and can be used for tons of jobs like web pages and apps.  :trollface:
+<img src="images/eye.down.png" width="10%" />  Can you read this aloud? 
+
+```
+if number > 500:
+   print('Your number is greater than 500.')
+else:
+   print('Your number is less than 500.')
+```
+
+You're on :fire:
+
+
+
+- Python is popular & used for web pages and apps.  :trollface:  
 
 (*Baby* :baby:) - **CircuitPython** is used with NeoTrellis.
 
+---
+
+### Step #1: Install Python 
+
+- It works on all computers, but it doesn'y always come on all computers.
+
+|Step #| |
+| :- | :- |
+|1|<script> function button(){ window.open("[address](https://www.python.org/downloads/)");} </script> <button onclick="button()">python.org/download</button>|
+|||
+|||
+|||
+|||
+|||
 
 
-### Step #1: Installing is the first step. It works on all computers. It is even on many NEW computers.
-- Design page/directions for Windows
+---
 
 ### Step #2: Install Thonny
 
