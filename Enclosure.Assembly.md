@@ -5,7 +5,7 @@
 | TOTAL | PARTS | PICTURE |
 | :-: | :- | :-: |
 | 4 | Plastic pieces<br>*(Paper covered)* | <img src="images/adafruit_products_IMG_2336_2k.jpg" width="80%" /> <br> FOUR = ONE SET|
-| 5 | Screws & nuts | <img src="images/STOP-sign.jpg" width="10%" /> |
+| 5 | Screws & nuts | <img src="images/screws.nuts.jpg" width="10%" /> |
 | 1 | Trellis computer board | <img src="images/trellis.board.jpg" width="50%" /> |
 | 2 | Rubber-like button pads | <img src="images/2.button.pads.jpg" width="50%" /> |
 | 1 | Mini to USB cable | <img src="images/usb.cable.jpg" width="50%" /> |
@@ -13,8 +13,8 @@
 
 ## C. Assembly
 
-> HINT: Use rubbing alcohol to help
-{: .block-tip }
+> HINT: Use rubbing alcohol to help  
+{: .block-tip }  
 
 - Imagine you are building a LAYER CAKE from TOP to BOTTOM
 

@@ -1,6 +1,6 @@
 Python & CircuitPython
 
-Python & CircuitPython is a computer language designed to be 
+Python & CircuitPython is known for its readability
 
 TUTORIALS:
 
@@ -21,37 +21,35 @@ https://www.youtube.com/watch?v=t8pPdKYpowI
 
 
 
-
-
-
-[
--Known for its readability
--Python is a popular programming language.
--Python can be used on a server to create web applications.
--Are you completely new to programming? It's made to be spoken and plain to use and learn. It does not use crazy symbols but just simpler text.
+- Python is popular.
+- Python can be used for tons of projects like creating web applications.
+- It's made to be spoken and plain to use and learn. It does not use crazy symbols but just simpler text.
 -Installing is the first step. It works on all computers. It is even on many NEW computers.
--Learning
+
 -IDEs 
 -There is a list of tutorials suitable for experienced programmers on the BeginnersGuide/Tutorials page.
 -Online documentation is your first port of call for definitive information. There are simple, short tutorials and more complicated ones. Keep looking for whatever you like the best.
 -Python is Open Source Software which means it's free for anyone to use, modify or improve upon.
 -CircuitPython supports small micro-devices without much "power" or "ram." 
--CircuitPython is easy to use because all you need is that little board, a USB cable, and a computer with a USB connection.
--
-    It's Python! Python is the fastest-growing programming language. It's taught in schools and universities. CircuitPython is almost-completely compatible with Python. It simply adds hardware support.
 
-This is just the beginning. CircuitPython continues to evolve, and is constantly being updated. Adafruit welcomes and encourages feedback from the community, and incorporate it into the development of CircuitPython. That's the core of the open source concept. This makes CircuitPython better for you and everyone who uses it!
+- CircuitPython is easy to use because all you need is that little board, a USB cable, and a computer with a USB connection.
+- 
+-Python is taught in many schools. 
 
- CircuitPython
+-CircuitPython is almost-completely compatible with Python. It simply adds hardware support.
 
-CircuitPython is designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to get prototyping by requiring no upfront desktop software downloads. Simply copy and edit files on the flash drive named CIRCUITPY which appears when NeoTrellis is plugged into a computer to iterate.
+# CircuitPython
+
+CircuitPython is a simplified version of Python. It works with microcontrollers. 
+
+Simply copy and edit files on the flash drive named CIRCUITPY which appears when NeoTrellis is plugged into a computer to iterate.
 
 The following instructions will show you how to install CircuitPython. If you've already installed CircuitPython but are looking to update it or reinstall it, the same steps work for that as well!
 adafruit_products_TrellisM4_UF2_downloaded.png
 
 Click the link above and download the latest UF2 file.
 
-Download and save it to your desktop (or wherever is handy).
+Download and save it to your desktop (or any folder).
 adafruit_products_TrellisM4StatusLEDGreen.png
 
 Plug your NeoTrellis M4 Express into your computer using a known-good USB cable.
