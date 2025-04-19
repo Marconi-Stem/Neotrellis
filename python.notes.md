@@ -1,12 +1,12 @@
 # Software: Python & CircuitPython
 
-Python & CircuitPython are close relatives.
+*Python & CircuitPython are relatives.*
 
-(Father :construction_worker:) - Python is made to be spoken. It's plain and does not use crazy symbols just simpler text. 
+(*Father* :construction_worker:) - **Python** is simple text & made to be spoken. It does not use crazy symbols. 
 
-- Python is popular and can be used for tons of jobs like web pages and apps. :trollface:
+- Python is popular and can be used for tons of jobs like web pages and apps.  :trollface:
 
-(Baby :baby:) - CircuitPython is used with NeoTrellis.
+(*Baby* :baby:) - **CircuitPython** is used with NeoTrellis.
 
 
 

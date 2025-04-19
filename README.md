@@ -1,5 +1,5 @@
 # How To Make The Neotrellis M4 Express
-The Marconi Summer STEM course, 9 AM -12 PM, Aug 5-7, 2025
+**Aug 5-7, 2025, 9 AM -12 PM**, Marconi Summer STEM course  
 
 | The 'Neo-Music Box' |
 |:-:|
