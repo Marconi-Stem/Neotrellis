@@ -2,7 +2,11 @@
 
 *"Python & CircuitPython are relatives."*
 
-(*Father* :construction_worker:) - **Python** is simple text & made to be spoken. It doesn't use crazy symbols either. 
+(*Father* :construction_worker:) - **Python** is simple text & made to be spoken. 
+
+Python is **FREE**! **|** Has tons of FREE help **|** Python is very popular **|** Python doesn't use crazy symbols. 
+
+- **But we'll need to install it.**
 
 <img src="images/eye.down.png" width="10%" />  Can you read this aloud? 
 
@@ -23,12 +27,17 @@ We'll use **CircuitPython**!
 
 ### Step #1: Install Python 
 
-- It works on all computers, but it doesn'y always come on all computers.
+<script> function button(){window.open("https://www.python.org/downloads/release/python-398");} </script>
+<button onclick="button()">Go to Python.org and download Python 3.9</button>
 
-|Step #| |
+<script> function button(){ window.open("address");} </script> 
+<button onclick="button()">text</button>
+
+
+|Step#| |
 | :- | :- |
-|1| <script> function button(){ window.open("[address](https://www.python.org/downloads/release/python-398/)");} </script> <button onclick="button()">Go to Python.org & download Python</button> |
-|2|Scroll down to find **Windows installer (64 bit) & Download:<br><img src="images/looking.4.windows.py39.png" width="80%" /> |
+|1| '' |
+|2|Scroll down to find **Windows installer (64 bit)** & Download:<br><img src="images/looking.4.windows.py39.png" width="80%" /> |
 |3||
 |||
 |||
@@ -39,18 +48,28 @@ We'll use **CircuitPython**!
 
 ### Step #2: Install Thonny
 
+Thonny is a Python **development environment** for beginners. Also called your **IDE.**
 
+Thonny can help you write better code. 
+It can help you by looking for any mistakes and can help you fix some too.
+
+open up a python terminal window and enter:
+**pip install thonny**
+
+|Step#| |
+| :- | :- |
+|1| Go to: [Thonny](https://thonny.org/) |
+|2| Download the Windows version. |
  
 -There is a list of tutorials suitable for experienced programmers on the BeginnersGuide/Tutorials page.
 -Online documentation is your first port of call for definitive information. There are simple, short tutorials and more complicated ones. Keep looking for whatever you like the best.
--Python is Open Source Software which means it's free for anyone to use, modify or improve upon.
--CircuitPython supports small micro-devices without much "power" or "ram." 
+
 
 - CircuitPython is easy to use because all you need is that little board, a USB cable, and a computer with a USB connection.
-- 
--Python is taught in many schools. 
+ 
 
--CircuitPython is almost-completely compatible with Python. It simply adds hardware support.
+
+-CircuitPython is almost-completely like Python. CircuitPython works with NeoTrellis hardware.
 
 # CircuitPython
 
