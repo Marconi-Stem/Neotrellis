@@ -1,6 +1,6 @@
 # Software: Python & CircuitPython
 
-*Python & CircuitPython are relatives.*
+*"Python & CircuitPython are relatives."*
 
 (*Father* :construction_worker:) - **Python** is simple text & made to be spoken. It doesn't use crazy symbols either. 
 
@@ -13,13 +13,11 @@ else:
    print('Your number is less than 500.')
 ```
 
-You're on :fire:
+You're on :fire: 
 
+(*Baby* :baby:) - **CircuitPython** is used with NeoTrellis. 
 
-
-- Python is popular & used for web pages and apps.  :trollface:  
-
-(*Baby* :baby:) - **CircuitPython** is used with NeoTrellis.
+We'll use **CircuitPython**!
 
 ---
 
@@ -29,9 +27,9 @@ You're on :fire:
 
 |Step #| |
 | :- | :- |
-|1|<script> function button(){ window.open("[address](https://www.python.org/downloads/)");} </script> <button onclick="button()">python.org/download</button>|
-|||
-|||
+|1|<script> function button(){ window.open("[address](https://www.python.org/downloads/release/python-398/)");} </script> <button onclick="button()">Go to Python.org & download Python</button>|
+|2|Scroll down to find **Windows installer (64 bit) & Download:<br><img src="images/looking.4.windows.py39.png" width="80%" /> |
+|3||
 |||
 |||
 |||
