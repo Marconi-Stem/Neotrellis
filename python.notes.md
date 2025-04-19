@@ -1,14 +1,13 @@
 # Software: Python & CircuitPython
 
+*Why Python?*  
+Python is **FREE**! **|** Has tons of **FREE** help **|** Python is very popular **|** Python doesn't use crazy symbols. 
+
 *"Python & CircuitPython are relatives."*
 
-(*Father* :construction_worker:) - **Python** is simple text & made to be spoken. 
+- (*Father* :construction_worker:) - **Python** is simple text & made to be spoken. 
 
-Python is **FREE**! **|** Has tons of FREE help **|** Python is very popular **|** Python doesn't use crazy symbols. 
-
-- **But we'll need to install it.**
-
-<img src="images/eye.down.png" width="10%" />  Can you read this aloud? 
+<img src="images/eye.down.png" width="10%" />  Read this aloud? 
 
 ```
 if number > 500:
@@ -19,9 +18,11 @@ else:
 
 You're on :fire: 
 
-(*Baby* :baby:) - **CircuitPython** is used with NeoTrellis. 
+- (*Baby* :baby:) - **CircuitPython** is used with NeoTrellis. 
 
 We'll use **CircuitPython**!
+
+- **But we'll need to install it.**
 
 ---
 
