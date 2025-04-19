@@ -27,7 +27,7 @@ We'll use **CircuitPython**!
 
 |Step #| |
 | :- | :- |
-|1|<script> function button(){ window.open("[address](https://www.python.org/downloads/release/python-398/)");} </script> <button onclick="button()">Go to Python.org & download Python</button>|
+|1| <script> function button(){ window.open("[address](https://www.python.org/downloads/release/python-398/)");} </script> <button onclick="button()">Go to Python.org & download Python</button> |
 |2|Scroll down to find **Windows installer (64 bit) & Download:<br><img src="images/looking.4.windows.py39.png" width="80%" /> |
 |3||
 |||
