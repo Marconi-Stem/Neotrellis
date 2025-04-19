@@ -1,13 +1,20 @@
 # Software: Python & CircuitPython
 
-*Why Python?*  
-Python is **FREE**! **|** Has tons of **FREE** help **|** Python is very popular **|** Python doesn't use crazy symbols. 
+**Q.1** Why Python?   
 
-*"Python & CircuitPython are relatives."*
+*Python is **FREE**! **|** It has tons of **FREE** help! **|** And it's very cool!*  :smirk:
 
-- (*Father* :construction_worker:) - **Python** is simple text & made to be spoken. 
+---
 
-<img src="images/eye.down.png" width="10%" />  Read this aloud? 
+**Q.2** What is the difference between Python & CircuitPython?  
+
+*Python & CircuitPython are relatives.*  
+
+1. (*Father* :construction_worker:) - **Python** is simple text & made to be spoken.  
+2. (*Baby* :baby:) - **CircuitPython** is used with NeoTrellis.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Neotrellis has less memory.
+
+<img src="images/eye.down.png" width="10%" /> Try reading this aloud?  
 
 ```
 if number > 500:
@@ -18,15 +25,16 @@ else:
 
 You're on :fire: 
 
-- (*Baby* :baby:) - **CircuitPython** is used with NeoTrellis. 
+---
 
-We'll use **CircuitPython**!
-
-- **But we'll need to install it.**
+**Q.3** Do we need both?  
+***Yes***, *You need both because your laptop will use Python and the small NeoTrellus has less memory.*  
 
 ---
 
 ### Step #1: Install Python 
+
+- **NOW, We'll need to install it.**
 
 <script> function button(){window.open("https://www.python.org/downloads/release/python-398");} </script>
 <button onclick="button()">Go to Python.org and download Python 3.9</button>
@@ -111,23 +119,23 @@ You can then unzip this download and drag the files onto CIRCUITPY drive to get 
 
 ## More TUTORIALS:
 
-:+1:
-[Abhijay's video playlist](https://www.youtube.com/playlist?list=PLVJIaQIN1-U7R3uJ16FP6xKWFEc6uZRee)
-[Mr C. Loves W3Schools](https://www.w3schools.com/python/)
-[Geeks 4 geeks](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
+:+1:  
+[Abhijay's video playlist](https://www.youtube.com/playlist?list=PLVJIaQIN1-U7R3uJ16FP6xKWFEc6uZRee)  
+[W3Schools](https://www.w3schools.com/python/), Mr C. Loves W3 School for Python  
+[Geeks 4 geeks](https://www.geeksforgeeks.org/python-programming-language-tutorial/)  
 
 
-:muscle:
-[Prof G. is EXCELLENT but Hi-level](https://www.youtube.com/playlist?list=PLBJJ76R_ry5T3X72OIDkMOXQIdmcvSkue)
+:muscle:  
+[Prof G. is EXCELLENT but Hi-level](https://www.youtube.com/playlist?list=PLBJJ76R_ry5T3X72OIDkMOXQIdmcvSkue)  
 
-?
-[Beginners](https://wiki.python.org/moin/BeginnersGuide)
-[learnpython](https://www.learnpython.org/)
-[FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
-[Free courses](https://medium.com/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)
-[Good ideas](https://www.freecodecamp.org/news/best-python-tutorial/)
-[Free Youtube videos](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
-[](https://www.youtube.com/watch?v=St48epdRDZw)
-[](https://pythonspot.com/beginner/)
-[](https://www.pythonforbeginners.com/python-tutorial)
-[](https://www.youtube.com/watch?v=t8pPdKYpowI)
+?  
+[Beginners](https://wiki.python.org/moin/BeginnersGuide)  
+[learnpython](https://www.learnpython.org/)  
+[FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)  
+[Free courses](https://medium.com/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)  
+[Good ideas](https://www.freecodecamp.org/news/best-python-tutorial/)  
+[Free Youtube videos](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)  
+[](https://www.youtube.com/watch?v=St48epdRDZw)  
+[](https://pythonspot.com/beginner/)  
+[](https://www.pythonforbeginners.com/python-tutorial)  
+[](https://www.youtube.com/watch?v=t8pPdKYpowI)  
