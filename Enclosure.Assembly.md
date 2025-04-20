@@ -4,23 +4,20 @@
 
 | TOTAL | PARTS | PICTURE |
 | :-: | :- | :-: |
-| 4 | Plastic pieces<br>*(Paper covered)* | <img src="images/adafruit_products_IMG_2336_2k.jpg" width="80%" /> <br> FOUR = ONE SET|
-| 5 | Screws & nuts | <img src="images/screws.nuts.jpg" width="10%" /> |
-| 1 | Trellis computer board | <img src="images/trellis.board.jpg" width="50%" /> |
+| 4 | Plastic pieces<br>*(Paper covered)* | <img src="images/adafruit_products_IMG_2336_2k.jpg" width="60%" /> <br> FOUR = ONE SET|
+| 5 | Screws & nuts | <img src="images/screws.nuts.jpg" width="40%" /> |
+| 1 | Trellis computer board | <img src="images/trellis.board.jpg" width="70%" /> |
 | 2 | Rubber-like button pads | <img src="images/2.button.pads.jpg" width="50%" /> |
 | 1 | Mini to USB cable | <img src="images/usb.cable.jpg" width="50%" /> |
 | 1 | Speaker with cable & plug | <img src="images/STOP-sign.jpg" width="10%" /> |
 
 ## C. Assembly
 
-> HINT: Use rubbing alcohol to help  
-{: .block-tip }  
-
-- Imagine you are building a LAYER CAKE from TOP to BOTTOM
+> Imagine you are building a LAYER CAKE from TOP to BOTTOM
 
 | Steps | |
 | :- | :-: |
-|1. Remove paper from all FOUR plastic parts | <img src="images/adafruit_products_IMG_2337_2k.jpg" width="70%" /> |
+|1. Remove paper from all FOUR plastic parts<br><br>&nbsp;&nbsp;&nbsp;&nbsp;*HINT: try rubbing alcohol* | <img src="images/adafruit_products_IMG_2337_2k.jpg" width="70%" /> |
 |2. Place TWO button pads,<br>face down on black plastic piece |  <img src="images/adafruit_products_IMG_2343_2k.jpg" width="70%" /> <br> <img src="images/adafruit_products_IMG_2344_2k.jpg" width="70%" /> <br> <img src="images/adafruit_products_IMG_2345_2k.jpg" width="70%" /> |
 |3. Place Trellis computer board<br>on top of two button pads | <img src="images/adafruit_products_IMG_2346_2k.jpg" width="70%" /> <br> <img src="images/adafruit_products_IMG_2347_2k.jpg" width="70%" /> |
 |4. Place the frame layer which helps hold the board in place. | <img src="images/adafruit_products_IMG_2348_2k.jpg" width="70%"/> <br> <img src="images/adafruit_products_IMG_2352_2k.jpg" width="70%"/> |
