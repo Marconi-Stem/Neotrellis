@@ -36,6 +36,8 @@
 - [Audio-visualizer-and-filter](https://learn.adafruit.com/trellis-m4-audio-visualizer-and-filter)
 - [Beat-Synth](https://learn.adafruit.com/trellis-m4-beat-sequencer)
 - [Live-launcher](https://learn.adafruit.com/neotrellis-live-launcher)
+- [Neotrellis-box-game](https://learn.adafruit.com/neotrellis-box-game)
+- [The Eight-step-simple-sequencer](https://learn.adafruit.com/trellis-m4-beat-sequencer/eight-step-simple-sequencer)
 
 
 ## Parts list & extras for the course - Directions
