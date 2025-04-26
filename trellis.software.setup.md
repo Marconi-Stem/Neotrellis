@@ -2,6 +2,7 @@
 
 - Update the UF2 Bootloader (important)
 - Updating Your Bootloader
+  - **MAKE decision to update uf2 or not?**
   - Go to: https://circuitpython.org/board/trellis_m4_express/
   - <img src="images/neoTrellis.uf2.file.download.page.png" width="80%" />
   - To see your board, get the UF2 and load the boot file.
