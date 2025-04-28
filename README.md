@@ -7,8 +7,8 @@
 
 ## Outline: Build Steps - Action List for Kids
 
-1. Assemble parts
 1. Downloading Python then install
+1. Assemble parts
 1. Download & Install Windows driver
 1. Download & Install ***.UF2***
 1. Download & Install Thonny
