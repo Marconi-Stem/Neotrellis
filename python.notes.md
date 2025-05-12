@@ -2,19 +2,9 @@
 
 **Q.1** Why Python?   
 
-*Python is **FREE**! **|** It has tons of **FREE** help! **|** And it's very cool!*  :smirk:
+*Python is **FREE**! **|** It has tons of **FREE** help! :smirk:
 
----
-
-**Q.2** What is the difference between Python & CircuitPython?  
-
-*Python & CircuitPython are relatives.*  
-
-1. (*Father* :construction_worker:) - **Python** is simple text & made to be spoken.  
-2. (*Baby* :baby:) - **CircuitPython** is used with NeoTrellis.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Neotrellis has less memory.
-
-<img src="images/eye.down.png" width="10%" /> Try reading this aloud?  
+Python is easy to read and easier to work with, for example, can you read the piece of Python code
 
 ```
 if number > 500:
@@ -26,9 +16,6 @@ else:
 You're on :fire: 
 
 ---
-
-**Q.3** Do we need both?  
-***Yes***, *You need both because your laptop will use Python and the small NeoTrellus has less memory.*  
 
 ---
 
@@ -139,3 +126,20 @@ You can then unzip this download and drag the files onto CIRCUITPY drive to get 
 [](https://pythonspot.com/beginner/)  
 [](https://www.pythonforbeginners.com/python-tutorial)  
 [](https://www.youtube.com/watch?v=t8pPdKYpowI)  
+
+
+---
+
+**Q.X** What is the difference between Python & CircuitPython?  
+
+*Python & CircuitPython are relatives.*  
+
+1. (*Father* :construction_worker:) - **Python** is simple text & made to be spoken.  
+2. (*Baby* :baby:) - **CircuitPython** is used with NeoTrellis.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Neotrellis has less memory.
+
+<img src="images/eye.down.png" width="10%" /> Try reading this aloud?  
+
+
+**Q.3** Do we need both?  
+***Yes***, *You need both because your laptop will use Python and the small NeoTrellis has less memory.*  
